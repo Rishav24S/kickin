@@ -2,7 +2,7 @@
 
 A responsive event website where you can browse upcoming events, search and filter them, and register for the ones you like. I built it for the K Explore web designing task using plain HTML, CSS and JavaScript.
 
-**Live site:** My Vercel Link after Deployment
+**Live site:** https://kickin-events.vercel.app/
 
 ## What it does
 - Browse event cards with a photo, date, venue and short description
