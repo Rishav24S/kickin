@@ -26,4 +26,4 @@ Open `index.html` in a browser.
 ## Notes
 - Event photos come from Unsplash. If one doesn't load, the card shows a gradient and emoji instead.
 - Event dates are set relative to today, so the events always look upcoming.
-- Next steps: a backend and real email confirmations.
+- Next features: a backend and real email confirmations.
