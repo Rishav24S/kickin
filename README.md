@@ -20,9 +20,6 @@ A responsive event website where you can browse upcoming events, search and filt
 
 Registrations are saved in the browser's localStorage, so there is no backend. They stay on the device you registered from, and no email is actually sent.
 
-## Run it
-Open `index.html` in a browser.
-
 ## Notes
 - Event photos come from Unsplash. If one doesn't load, the card shows a gradient and emoji instead.
 - Event dates are set relative to today, so the events always look upcoming.
